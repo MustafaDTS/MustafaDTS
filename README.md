@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a self employed <br>👯 I’m looking to collaborate on complex projects <br>🤝 I’m looking for help with machine learning techniques<br>
+🔭 I’m currently working as a self employed <br>👯 I’m looking to collaborate on complex projects <br>🤝 I’m looking for a data scientist role<br>
 
 
 # 💻 Tech Stack:
